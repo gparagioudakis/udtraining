@@ -7,7 +7,8 @@ public class Player : MonoBehaviour
     // public, private
     // int, float, bool, string
    
-    public float speed = 2.5f;
+    public float speed = 2.1f;
+    public string turn = string.Empty; 
     
     // Start is called before the first frame update
     void Start()
