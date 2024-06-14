@@ -1,2 +1,0 @@
-# udtraining
-UD Training
